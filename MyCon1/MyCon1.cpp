@@ -10,7 +10,7 @@
 int main()
 {
 	int i;
-	std::cout << "Hi Cat!";
+	std::cout << "Hi Catherine!";
 	std::cin >> i;
     return 0;
 }
